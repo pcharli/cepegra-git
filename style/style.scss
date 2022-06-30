@@ -2,3 +2,11 @@
     height: 213px;
     overflow: hidden;
 }
+.page-nav ul {
+    display: flex;
+    flex:1;
+}
+.nav-item {
+    width: 100px;
+    list-style: none;;
+}
